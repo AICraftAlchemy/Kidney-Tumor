@@ -192,7 +192,7 @@ Below are screenshots demonstrating the project:
 ![Screenshot 011](ScreenShots/011.png)
 ![Screenshot 011](ScreenShots/012.png)
 ![Screenshot 011](ScreenShots/013.png)
-![Screenshot 011](Screenshots/014.png)
+![Screenshot 011](ScreenShots/014.png)
 
 These images showcase the functionality and user interface of the application.
 ## Support
