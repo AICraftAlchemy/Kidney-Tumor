@@ -179,19 +179,19 @@ Start the server in terminal
 
 Below are screenshots demonstrating the project:
 
-![Screenshot 001](Screenshots/001.png)
-![Screenshot 002](Screenshots/002.png)
-![Screenshot 003](Screenshots/003.png)
-![Screenshot 004](Screenshots/004.png)
-![Screenshot 005](Screenshots/005.png)
-![Screenshot 006](Screenshots/006.png)
-![Screenshot 007](Screenshots/007.png)
-![Screenshot 008](Screenshots/008.png)
-![Screenshot 009](Screenshots/009.png)
-![Screenshot 010](Screenshots/010.png)
-![Screenshot 011](Screenshots/011.png)
-![Screenshot 011](Screenshots/012.png)
-![Screenshot 011](Screenshots/013.png)
+![Screenshot 001](ScreenShots/001.png)
+![Screenshot 002](ScreenShots/002.png)
+![Screenshot 003](ScreenShots/003.png)
+![Screenshot 004](ScreenShots/004.png)
+![Screenshot 005](ScreenShots/005.png)
+![Screenshot 006](ScreenShots/006.png)
+![Screenshot 007](ScreenShots/007.png)
+![Screenshot 008](ScreenShots/008.png)
+![Screenshot 009](ScreenShots/009.png)
+![Screenshot 010](ScreenShots/010.png)
+![Screenshot 011](ScreenShots/011.png)
+![Screenshot 011](ScreenShots/012.png)
+![Screenshot 011](ScreenShots/013.png)
 ![Screenshot 011](Screenshots/014.png)
 
 These images showcase the functionality and user interface of the application.
